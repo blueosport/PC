@@ -3,6 +3,8 @@
 A browser-based operating system simulation that runs entirely as a static website — no server, no build step, no dependencies.
 I made it for those who want to use an Operating System but unfortunately , for the some ... Democratic reason.... 
 done have a great hardware spec or dont want to waste all that RAM on that one "Operating System".
+If you have a Window Manager , this will be way easier for you to work with.
+THose who are visiting the session using a browser can also use Shortcuts.
 
 ### This is already a running session available at [https://blueosport.github.io/PC/] ###
 
